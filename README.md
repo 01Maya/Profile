@@ -10,8 +10,8 @@ A responsive and elegant portfolio webpage designed for showcasing digital produ
 
 ## Technologies Used  
 - **TypeScript**: For type-safe JavaScript functionality.  
-- **JavaScript (ES6)**: For dynamic behavior and interactivity.  
-- **CSS3**: For modern styling and layout design.  
+- **JavaScript**: For dynamic behavior and interactivity.  
+- **CSS**: For modern styling and layout design.  
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
