@@ -13,6 +13,10 @@ A responsive and elegant portfolio webpage designed for showcasing digital produ
 - **JavaScript**: For dynamic behavior and interactivity.  
 - **CSS**: For modern styling and layout design.  
 
+## Preview
+https://profile01-minimal.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
