@@ -1,4 +1,4 @@
-# Minimalistic Portfolio Website  
+# Minimalistic Portfolio Website  ⚡️
 
 A responsive and elegant portfolio webpage designed for showcasing digital products, brands, and experiences. Built with a focus on minimalism, intuitive UI, smooth animations, and enhanced interactivity.  
 
