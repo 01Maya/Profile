@@ -3,7 +3,7 @@
 
 A responsive and elegant portfolio webpage designed for showcasing digital products, brands, and experiences. Built with a focus on minimalism, intuitive UI, smooth animations, and enhanced interactivity.  
 
-## Features  
+## Features  💎
 - **Responsive Design**: Adapts seamlessly to various screen sizes for a consistent experience.  
 - **Smooth Animations**: Subtle hover effects and animated icons for dynamic interactivity.  
 - **Logo Carousel**: A scrolling logo section to highlight collaborations or technologies.  
