@@ -9,7 +9,8 @@ A responsive and elegant portfolio webpage designed for showcasing digital produ
 - **Logo Carousel**: A scrolling logo section to highlight collaborations or technologies.  
 - **Interactive Elements**: Hover effects for buttons, cards, and icons to enhance user engagement.  
 
-## Technologies Used  
+## Technologies Used  📚
+
 - **TypeScript**: For type-safe JavaScript functionality.  
 - **JavaScript**: For dynamic behavior and interactivity.  
 - **CSS**: For modern styling and layout design.  
