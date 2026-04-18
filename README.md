@@ -14,7 +14,7 @@ A responsive and elegant portfolio webpage designed for showcasing digital produ
 - **JavaScript**: For dynamic behavior and interactivity.  
 - **CSS**: For modern styling and layout design.  
 
-## Preview
+## Preview 🔗
 https://profile01-minimal.vercel.app/
 
 ---
